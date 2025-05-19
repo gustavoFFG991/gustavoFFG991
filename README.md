@@ -13,7 +13,7 @@
 <div>
  <h2 style="margin: 30px;">Links to contact me</h1>
   <a href="https://www.linkedin.com/in/gustavo-franco-fidelis-gon%C3%A7alves-70458529a/"> <img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" style="height:60px"></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpdLhNjkChDxDZcBJThGjCZbSTStfnCDNKnnsZlXvpHLzlPsSfrkXFsWJXLsKQcPKTWpql"> <img src="https://pics.freeicons.io/uploads/icons/png/7969340901574338609-512.png" style="height:60px"></a>
+  <a href="mailto:gustavoffg991@gmail.com"> <img src="https://pics.freeicons.io/uploads/icons/png/7969340901574338609-512.png" style="height:60px"></a>
 </div>
 
 <!--
