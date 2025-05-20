@@ -9,13 +9,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:60px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="height:60px;">
   
+  
+</div>
+<div style="justify-content: space-around;">
+ <h2 style="margin: 30px;">Links to contact me</h1>
+  <a href="https://www.linkedin.com/in/gustavo-franco-fidelis-gon%C3%A7alves-70458529a/"> <img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" style="height:60px;"></a>
+  <a href="mailto:gustavoffg991@gmail.com"> <img src="https://pics.freeicons.io/uploads/icons/png/7969340901574338609-512.png" style="height:60px"></a>
+  
 </div>
 <div>
- <h2 style="margin: 30px;">Links to contact me</h1>
-  <a href="https://www.linkedin.com/in/gustavo-franco-fidelis-gon%C3%A7alves-70458529a/"> <img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" style="height:60px"></a>
-  <a href="mailto:gustavoffg991@gmail.com"> <img src="https://pics.freeicons.io/uploads/icons/png/7969340901574338609-512.png" style="height:60px"></a>
+<img class="animation--Gl63I" srcset="https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_256.gif 1x, https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_512.gif 2x" src="https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_512.gif" alt="Café, Copo, Caneca, Pixel, Arte, Vapor" style="width: 120px; height: 120px; position: relative; left: 100vw;">
 </div>
-
 <!--
 **gustavoFFG991/gustavoFFG991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
